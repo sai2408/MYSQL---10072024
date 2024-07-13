@@ -1,0 +1,5 @@
+1. Define Data and Database in the context of Computer Systems. Explain how to create Database
+2. Describe differences between Database vs DBMS vs SQL vs MYSQL
+3. Note some applications of Data Base
+4. Describe types of DBMS
+5. Define Sublanguage and note all the different types of sub languages along with keywords used in each and every Sub language
