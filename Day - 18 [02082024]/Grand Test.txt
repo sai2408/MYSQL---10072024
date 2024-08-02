@@ -1,0 +1,7 @@
+1. Create a table with the name employees consists of name [ not null], eid [primary key][auto increment], age and salary. Create another table customers consists of cid [primary key][auto increment],name [not null],eid [ foreign key]. Extract the customers who connected with employees.
+2. Create a table with the name employees consists of eid [primary key][auto increment], name [ not null],  age and salary. Create another table customers consists of cid [primary key][auto increment],name [not null],eid [ foreign key]. Extract all the customers who have connected with employees.
+
+3. Create a table with the name employees consists of name [ not null], eid [primary key][auto increment], salary and age.  Create another table customers consists of cid [primary key][auto increment],name [not null],eid [ foreign key]. Extract all the employees who have connected with customers whose salary is greater than 34000.
+
+4. Create a table consists of favgames with columns favgame1 [not null] , name [not null] and favgame2 [not null]. Extract all the people who have has same fav games.
+
